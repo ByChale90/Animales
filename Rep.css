@@ -1,0 +1,49 @@
+* { 
+    padding: 0; 
+    margin: 0; 
+    box-sizing: border-box; 
+} 
+body { 
+    background-image: url(https://www.botanytoday.com/wp-content/uploads/2023/01/Desert-Habitat-Deserts.jpg);
+    background-size: 1600px 900px;
+    height: 100vh; 
+    color: white; 
+}
+div{
+    background-color: transparent;
+    margin: 0 190px;
+}
+header{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: transparent;
+    height: 50px;
+    color: black;
+    text-align: center;
+    padding: 1px;
+    font-size: 40px;
+}
+img{
+    width: 300px;
+    height: 250px;
+}
+h2{
+    font-size: x-large;
+    color: white;
+    text-align: justify;
+    margin: 0 20px auto;
+}
+ol{ 
+    font-size: large;
+    text-align: left;
+    margin: 0 150px auto;
+}
+footer{
+    font-size: xx-large;
+    background-color: transparent;
+    color: rgba(0, 0, 0, 0.886);
+    text-align: center;
+    margin: 10px 300px;
+}
+a{
+    color: white;
+}

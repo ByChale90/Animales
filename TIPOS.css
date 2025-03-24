@@ -1,0 +1,56 @@
+/* Configuración general para el fondo */
+body {
+    background-image: url('https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); /* Cambia 'ruta-de-tu-imagen.jpg' por la ruta de tu imagen */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 20;
+    font-family: 'Bahnschrift Light', sans-serif; /* Fuente predeterminada para contenido */
+}
+
+/* Estilo para títulos */
+h1 {
+    color: black; /* Color negro para títulos */
+    font-family: Arial, sans-serif; /* Fuente Arial */
+    font-size: 2.5em; /* Tamaño del título */
+    margin-top: 20px;
+}
+
+/* Estilo para subtítulos */
+h2 {
+    color: black; /* Color negro para subtítulos */
+    font-family: 'Bahnschrift Light', sans-serif; /* Fuente Bahnschrift Light */
+    font-size: 2em; /* Tamaño del subtítulo */
+}
+
+/* Estilo para contenido */
+p {
+    color: rgb(224, 219, 219); /* Color negro para contenido */
+    font-family: 'Bahnschrift Light', sans-serif; /* Fuente Bahnschrift Light */
+    font-size: 1.2em; /* Tamaño del texto */
+    margin: 10px 20px;
+}
+footer {
+    background-color: rgb(56, 36, 9);
+    color: white;
+    text-align: left;
+    padding: 1rem;
+    margin-top: 20px;
+}
+h3 {
+    color: black; /* Color negro para subtítulos */
+    font-family: 'Bahnschrift Light', sans-serif; /* Fuente Bahnschrift Light */
+    font-size: 1.2em; /* Tamaño del subtítulo */
+}
+p2 {
+    color: rgb(48, 43, 43); /* Color negro para contenido */
+    font-family: 'Bahnschrift Light', sans-serif; /* Fuente Bahnschrift Light */
+    font-size: 1.2em; /* Tamaño del texto */
+    margin: 10px 20px;
+}
+footer{
+    background-color: transparent;
+}
+a{
+    color: white;
+}
